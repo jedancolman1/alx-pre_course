@@ -3,4 +3,4 @@ git add .
 echo "enter commit messege"
 msg
 git commit -m "$msg"
-git push
+git push ###########################
